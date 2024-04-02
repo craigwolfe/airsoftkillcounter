@@ -19,7 +19,7 @@ function save(){
 	countEl.textContent = 0;
 	//reset count to zero
 	count=0;
-	totalEl.textContent ="Total Kills:" + totalSaved;
+	totalEl.textContent ="Total Kills:"+" " + totalSaved;
 }
 
 
